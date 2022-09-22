@@ -1,0 +1,56 @@
+.my-logo
+{
+height:80px;
+}
+
+.s-icon
+{
+list-style:none;
+padding-top:30px;
+}
+
+.s-icon li
+{
+display:inline-block;
+background:black;
+color:darkred;
+padding:15px 20px;
+border-radius:50%;
+margin:0px 0px;
+}
+.ravi-ka-slider
+{
+height:450px;
+
+}
+
+.card{
+    height: 500px;
+}
+
+gallery-pic
+{
+height:250;
+}
+
+.breadcrumb-outer
+{
+height:250px;
+background-image:url("accect/image/slider/slider.jpg") ;
+background-repeat:no-repeat ;
+background-size: 100% 100%;
+}
+
+.breadcrumb-inner
+{
+height200px;
+background-color: rgba(0,0,0,0.5);
+}
+.background_color_red
+{
+    background-color: red;
+}
+.name_c
+{
+    display: inline;
+}
